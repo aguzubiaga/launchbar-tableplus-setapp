@@ -10,8 +10,8 @@ function run() {
 
 function suggestions(argument) {
     try {
-        const connections = File.readPlist('~/Library/Application Support/com.tinyapp.TablePlus/Data/Connections.plist');
-        const groups = File.readPlist('~/Library/Application Support/com.tinyapp.TablePlus/Data/ConnectionGroups.plist');
+        const connections = File.readPlist('~/Library/Application Support/com.tinyapp.TablePlus-setapp/Data/Connections.plist');
+        const groups = File.readPlist('~/Library/Application Support/com.tinyapp.TablePlus-setapp/Data/ConnectionGroups.plist');
 
         let suggestions = [];
         let filteredConnections = [];

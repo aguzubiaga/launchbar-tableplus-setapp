@@ -5,7 +5,7 @@
 	<key>CFBundleIconFile</key>
 	<string>icon.png</string>
 	<key>CFBundleIdentifier</key>
-	<string>de.jamalu.tableplus.action</string>
+	<string>me.aguz.tableplus-setapp.action</string>
 	<key>CFBundleName</key>
 	<string>TP</string>
 	<key>CFBundleVersion</key>
@@ -15,18 +15,18 @@
 	<key>LBDescription</key>
 	<dict>
 		<key>LBAuthor</key>
-		<string>Matthias Ludwig</string>
+		<string>Agustín Zubiaga</string>
 		<key>LBEmail</key>
 		<string></string>
 		<key>LBSummary</key>
-		<string>Quickly open TablePlus connections</string>
+    <string> Quickly open TablePlus (Setapp) connections. Fork of mludi/launchbar-tableplus by Matthias Ludwig. Adapted for the Setapp verison of TablePlus.</string>
 		<key>LBTwitter</key>
-		<string>https://twitter.com/ludwigmatthias</string>
+		<string>https://twitter.com/aguzubiaga</string>
 		<key>LBWebsiteURL</key>
 		<string></string>
 	</dict>
 	<key>LBRequiredApplication</key>
-	<string>com.tinyapp.TablePlus</string>
+	<string>com.tinyapp.TablePlus-setapp</string>
 	<key>LBScripts</key>
 	<dict>
 		<key>LBDefaultScript</key>
