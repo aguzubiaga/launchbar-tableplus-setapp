@@ -27,6 +27,8 @@
 	</dict>
 	<key>LBRequiredApplication</key>
 	<string>com.tinyapp.TablePlus-setapp</string>
+  <key>LBAssociatedApplication</key>
+	<string>com.tinyapp.TablePlus-setapp</string>
 	<key>LBScripts</key>
 	<dict>
 		<key>LBDefaultScript</key>
